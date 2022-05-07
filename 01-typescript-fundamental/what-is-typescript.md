@@ -1,5 +1,5 @@
 # What is Typescript
 ## Reference
-[GitHub Pages](https://www.typescriptlang.org/).
-[GitHub Pages](https://www.babelcoder.com/blog/articles/typescript-data-types).
+[Typescript](https://www.typescriptlang.org/).
+[Typescript mean v.thai](https://www.babelcoder.com/blog/articles/typescript-data-types).
 
