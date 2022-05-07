@@ -2,12 +2,12 @@
 Create Book for Typescript 
 
 ## Task List
-#### Typescript Fundamental
+#### 01 Typescript Fundamental
 - [x] [What is TypeScript?](https://github.com/earth774/typescript-beginer/blob/main/01-typescript-fundamental/what-is-typescript.md)
 - [ ] [How to install Typescript Project?](https://github.com/earth774/typescript-beginer/blob/main/01-typescript-fundamental/how-to-install-typescript-project.md)
 - [ ] [tsconfig.json](https://github.com/earth774/typescript-beginer/blob/main/01-typescript-fundamental/tsconfig.md)
 
-#### Basic Typescript
+#### 02 Basic Typescript
 - [ ] Primitive Data Types
 - [ ] Literal Types
 - [ ] Strict Null Checks
@@ -15,7 +15,7 @@ Create Book for Typescript
 - [ ] ชนิดข้อมูล void และ never
 - [ ] Type Assertions
 
-#### Composition/Compound Types
+#### 03 Composition/Compound Types
 - [ ] Array
 - [ ] Tuples และ Labeled Tuples
 - [ ] Enums
@@ -29,7 +29,7 @@ Create Book for Typescript
 - [ ] Type Guards
 - [ ] const assertions
 
-#### Advanced Types
+#### 04 Advanced Types
 - [ ] Template Literal Types
 - [ ] Unoin Types
 - [ ] Discriminated Unions
@@ -40,14 +40,14 @@ Create Book for Typescript
 - [ ] Key Remapping
 - [ ] ข้อแตกต่างระหว่าง Type Alias กับ Interfaces
 
-#### Classes
+#### 05 Classes
 - [ ] Classes
 - [ ] Inheritance
 - [ ] Access Modifiers
 - [ ] Parameter Properties
 - [ ] Abstract Classes
 
-#### Generic และ Constraints
+#### 06 Generic และ Constraints
 - [ ] Generic Functions และ Generic Classes
 - [ ] การใช้ Generic Types กับ Type Aliases และ Interfaces
 - [ ] Generic Constraints
@@ -55,7 +55,7 @@ Create Book for Typescript
 - [ ] Type Inference
 - [ ] Recursive Conditional Types
 
-#### Utility Types
+#### 07 Utility Types
 - [ ] Intrinsic String Types
 - [ ] Exclude และ Extract
 - [ ] NonNullable
@@ -65,7 +65,7 @@ Create Book for Typescript
 - [ ] Pick และ Omit
 - [ ] Required Partial และ Readonly
 
-#### Declaration Files
+#### 08 Declaration Files
 - [ ] Definitely Typed
 - [ ] การประกาศชนิดข้อมูลให้กับ library ด้วยตนเอง
 
