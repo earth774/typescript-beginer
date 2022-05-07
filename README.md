@@ -3,9 +3,9 @@ Create Book for Typescript
 
 ## Task List
 #### Typescript Fundamental
-- [x] [What is TypeScript?](#)
-- [ ] How to install Typescript Project?
-- [ ] tsconfig.json
+- [x] [What is TypeScript?](https://github.com/earth774/typescript-beginer/blob/main/01-typescript-fundamental/what-is-typescript.md)
+- [ ] [How to install Typescript Project?](https://github.com/earth774/typescript-beginer/blob/main/01-typescript-fundamental/how-to-install-typescript-project.md)
+- [ ] [tsconfig.json](https://github.com/earth774/typescript-beginer/blob/main/01-typescript-fundamental/tsconfig.md)
 
 #### Basic Typescript
 - [ ] Primitive Data Types
